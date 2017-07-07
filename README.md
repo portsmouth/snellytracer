@@ -11,10 +11,6 @@ A large number of light rays are cast into a transparent object from a laser, an
 	
   - The emitter is a laser pointer with adjustable radius and spread. The emitted light spectrum is specifiable as either a flat band, a monochromatic line, or blackbody radiation at a specified temperature.
 
-
-
-
-
 Controls
 ========
 
@@ -26,17 +22,11 @@ Controls
 
 
 
-Browser support
-===============
-
-Currently only works in Chrome.
-
-
 ---
 
-![alt tag](https://raw.githubusercontent.com/portsmouth/snelly/master/images/gem.png)
-![alt tag](https://raw.githubusercontent.com/portsmouth/snelly/master/images/fibre2.png)
-![alt tag](https://raw.githubusercontent.com/portsmouth/snelly/master/images/glass.png)
-![alt tag](https://raw.githubusercontent.com/portsmouth/snelly/master/images/knot.png)
-![alt tag](https://raw.githubusercontent.com/portsmouth/snelly/master/images/slabs.png)
-![alt tag](https://raw.githubusercontent.com/portsmouth/snelly/master/images/menger.png)
+![alt tag](https://raw.githubusercontent.com/portsmouth/snellytracer/master/images/gem.png)
+![alt tag](https://raw.githubusercontent.com/portsmouth/snellytracer/master/images/fibre2.png)
+![alt tag](https://raw.githubusercontent.com/portsmouth/snellytracer/master/images/glass.png)
+![alt tag](https://raw.githubusercontent.com/portsmouth/snellytracer/master/images/knot.png)
+![alt tag](https://raw.githubusercontent.com/portsmouth/snellytracer/master/images/slabs.png)
+![alt tag](https://raw.githubusercontent.com/portsmouth/snellytracer/master/images/menger.png)
